@@ -1,0 +1,28 @@
+table.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 40em;
+    color: rgb(250, 250, 250);
+}
+table{
+    
+    text-align: center;
+    color: rgb(250, 250, 250);
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.texto {
+    padding-top: 3em;
+}
+body {
+    background-image: url(/static/fundo.jpg);
+    background-attachment: fixed; 
+    background-size: cover; 
+    background-repeat:no-repeat;   
+}
+thead{
+    margin-bottom: 500px;
+}

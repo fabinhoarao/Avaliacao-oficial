@@ -1,0 +1,27 @@
+form.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url(/static/fundo.jpg);
+    background-attachment: fixed; 
+    background-size: cover; 
+    background-repeat:no-repeat;     
+}
+
+#voltar {
+    
+    color:white;
+}
+
+h2 {
+    text-align: center;
+}
